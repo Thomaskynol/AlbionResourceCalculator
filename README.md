@@ -14,6 +14,3 @@ This Lua script helps you calculate how many resources you need to purchase in o
 3. Enter the number of items you wish to craft for each material.
 4. The script will calculate the total amount of resources needed, considering the waste factor.
 5. The final message will display the total resources required.
-
-## Example:
-
